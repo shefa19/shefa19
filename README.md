@@ -1,20 +1,23 @@
+
+<!-- Banner Section with Stats and Streaks -->
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=shefa19&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=shefa19&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=shefa19&theme=darcula&hide_border=true&background=FFFFFF00">
-  <br>
-  <br>
-  <a href="mailto:sishefa19@gmail.com"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="Email Me" /></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shefa19&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shefa19&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shefa19&theme=darcula&hide_border=true&background=FFFFFF00" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Hi+I'm+Shefaul+Islam+Shefa+%F0%9F%91%8B;Aspiring+Software+Engineer+from+Bangladesh;Loves+Python+%7C+Django+%7C+Problem+Solving" alt="Typing animation">
 </p>
 
 ---
 
-## 👋 Hi, I'm Shefaul Islam Shefa
+## 👋 About Me
 
 🎓 BSc Student in Engineering at **Dhaka International University**  
 💻 Learning **Python & Django**, completed **C, C++ & OOP**  
 🌱 Exploring full-stack development and open-source contributions  
-🎯 Goal: Become a professional **Software Engineer**
+🎯 Goal: Become a professional **Software Engineer** with strong problem-solving skills
 
 ---
 
@@ -53,16 +56,12 @@
 
 ---
 
-<!--
-**shefa19/shefa19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="mailto:sishefa19@gmail.com">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="Email Me" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on daily Python challenges
-- 🌱 I’m currently learning Django and full-stack development
-- 👯 I’m looking to collaborate on open-source projects
-- 🤔 I’m looking for help with advanced Python logic
-- 💬 Ask me about Python, GitHub workflows, or academic translation
-- 📫 How to reach me: sishefa19@gmail.com
-- ⚡ Fun fact: I blend technical mastery with creative storytelling
--->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
