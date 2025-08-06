@@ -10,6 +10,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Hi+I'm+Shefaul+Islam+Shefa+%F0%9F%91%8B;Aspiring+Software+Engineer+from+Bangladesh;Loves+Python+%7C+Django+%7C+Problem+Solving" alt="Typing animation">
 </p>
 
+---
 
 ## 👋 About Me
 
