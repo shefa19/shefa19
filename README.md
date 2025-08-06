@@ -17,8 +17,7 @@
 🎓 BSc Student in Engineering at **Dhaka International University**  
 💻 Learning **Python & Django**, completed **C, C++ & OOP**  
 🧠 Currently researching **Machine Learning** applications  
-📄 Preparing to publish my first **research paper** very soon 
-
+📄 Preparing to publish my first **research paper** very soon
 🌱 Exploring full-stack development and open-source contributions  
 🎯 Goal: Become a professional **Software Engineer** with strong problem-solving skills
 
