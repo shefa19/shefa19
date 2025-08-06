@@ -1,45 +1,68 @@
-
-<!-- Animated SVG Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hi+I'm+Shefaul+Islam+Shefa+%F0%9F%91%8B;Python+Enthusiast+%7C+Problem+Solver+%7C+BSc+Student;Loves+clean+code+and+creative+storytelling" alt="Typing SVG" />
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=shefa19&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=shefa19&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=shefa19&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+  <a href="mailto:sishefa19@gmail.com"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="Email Me" /></a>
 </p>
 
-# 👋 Hi, I'm Shefaul Islam Shefa
+---
 
-🎯 A Python enthusiast blending clean code with creative storytelling  
-📚 Currently solving daily Python challenges and refining GitHub workflows  
-🧠 Exploring academic research and bilingual translation (Bangla & English)  
-🛠️ Tools I use:  
-- Python  
-- Git  
-- VS Code  
-- Markdown  
-- Matplotlib  
-- Pillow
+## 👋 Hi, I'm Shefaul Islam Shefa
+
+🎓 BSc Student in Engineering at **Dhaka International University**  
+💻 Learning **Python & Django**, completed **C, C++ & OOP**  
+🌱 Exploring full-stack development and open-source contributions  
+🎯 Goal: Become a professional **Software Engineer**
 
 ---
 
-## 🚀 Projects
-- **Nested Dictionary Explorer** – Dynamic user input with robust error handling  
-- **Set Operations Visualizer** – Avatar-based visuals for Python sets  
-- **Academic Translator** – Converts research abstracts into Bangla/English
+## 🛠️ Skills & Tools
+
+- **Languages**: C, C++, Python, HTML, CSS, JavaScript (Basic)  
+- **Frameworks**: Django (Learning)  
+- **Tools**: VS Code, Code::Blocks, Git, GitHub  
+- **Platforms**: Beecrowd, LeetCode, HackerRank, Codeforces
 
 ---
 
-## 📬 Connect with Me
-- 📧 Email: your.email@example.com  
-- 🌐 LinkedIn:[sishefa19](https://www.linkedin.com/in/sishefa19/) 
-- 🐍 GitHub: [shefa19](https://github.com/shefa19)
+## 🌐 Problem Solving Profiles
+
+- 🔵 [Beecrowd](https://judge.beecrowd.com/en/profile/1066526)  
+- 🟠 [LeetCode](https://leetcode.com/u/shefa19/)  
+- 🟢 [HackerRank](https://www.hackerrank.com/profile/sishefa19)  
+- 🟡 [Codeforces](https://codeforces.com/profile/Shefa19)
 
 ---
 
-## 📌 Goals
-- Master advanced Python concepts  
-- Contribute to healthcare AI research  
-- Build a professional identity that blends tech and design
+## 🚀 Future Goals
+
+- 🧠 Master Python, Django, and full-stack web development  
+- 🌟 Contribute to open-source projects  
+- 🏆 Participate in coding contests  
+- 💼 Build a professional portfolio site: **SI SHEFA**
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+## 📬 Let's Connect
+
+- 📧 Email: `sishefa19@gmail.com`  
+- 💼 LinkedIn: [linkedin.com/in/sishefa19](https://www.linkedin.com/in/sishefa19/)  
+- 🌐 Portfolio: [shefa19.github.io](https://shefa19.github.io) *(Coming Soon)*
+
+---
+
+<!--
+**shefa19/shefa19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on daily Python challenges
+- 🌱 I’m currently learning Django and full-stack development
+- 👯 I’m looking to collaborate on open-source projects
+- 🤔 I’m looking for help with advanced Python logic
+- 💬 Ask me about Python, GitHub workflows, or academic translation
+- 📫 How to reach me: sishefa19@gmail.com
+- ⚡ Fun fact: I blend technical mastery with creative storytelling
+-->
