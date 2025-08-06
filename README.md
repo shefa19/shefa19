@@ -1,9 +1,8 @@
-
 <!-- Banner Section with Stats and Streaks -->
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shefa19&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shefa19&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php" alt="Top Languages"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shefa19&theme=darcula&hide_border=true&background=FFFFFF00" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=shefa19&theme=dark&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
@@ -16,6 +15,8 @@
 
 🎓 BSc Student in Engineering at **Dhaka International University**  
 💻 Learning **Python & Django**, completed **C, C++ & OOP**  
+🧠 Currently researching **Machine Learning** applications  
+📄 Preparing to publish my first **research paper** very soon  
 🌱 Exploring full-stack development and open-source contributions  
 🎯 Goal: Become a professional **Software Engineer** with strong problem-solving skills
 
@@ -42,6 +43,7 @@
 ## 🚀 Future Goals
 
 - 🧠 Master Python, Django, and full-stack web development  
+- 📊 Advance my research in **Machine Learning** and publish impactful papers  
 - 🌟 Contribute to open-source projects  
 - 🏆 Participate in coding contests  
 - 💼 Build a professional portfolio site: **SI SHEFA**
