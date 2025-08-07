@@ -1,10 +1,9 @@
-
 <!-- 🌟 Welcome Section -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=1000&lines=Welcome+to+My+GitHub+Profile!;I'm+Shefaul+Islam+Shefa+%F0%9F%91%8B;Aspiring+Software+Engineer+from+Bangladesh" alt="Typing animation">
 </p>
 
-<!-- Banner Section with Stats and Streaks -->
+<!-- 📊 Banner Section with Stats and Streaks -->
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shefa19&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shefa19&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php" alt="Top Languages"/>
@@ -42,6 +41,22 @@
 
 ---
 
+## 📊 Language Usage Overview
+
+![C](https://img.shields.io/badge/C-39.14%25-blue?style=for-the-badge&logo=c)
+![Python](https://img.shields.io/badge/Python-26.76%25-yellow?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/C++-25.35%25-lightgrey?style=for-the-badge&logo=c%2B%2B)
+![HTML](https://img.shields.io/badge/HTML-8.75%25-orange?style=for-the-badge&logo=html5)
+
+<pre>
+C      ██████████████████████████████████████ 39.14%
+Python ████████████████████████████           26.76%
+C++    █████████████████████████              25.35%
+HTML   ████████                               8.75%
+</pre>
+
+---
+
 ## 🚀 Future Goals
 
 - 🧠 Master Python, Django, and full-stack web development  
@@ -59,7 +74,7 @@
 
 ---
 
-<!-- Footer -->
+<!-- 🌈 Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
