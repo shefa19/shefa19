@@ -43,16 +43,16 @@
 
 ## 📊 Language Usage Overview
 
-![C](https://img.shields.io/badge/C-39.14%25-blue?style=for-the-badge&logo=c)
-![Python](https://img.shields.io/badge/Python-26.76%25-yellow?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-25.35%25-lightgrey?style=for-the-badge&logo=c%2B%2B)
-![HTML](https://img.shields.io/badge/HTML-8.75%25-orange?style=for-the-badge&logo=html5)
+![C++](https://img.shields.io/badge/C++-45.00%25-lightgrey?style=for-the-badge&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/Python-30.00%25-yellow?style=for-the-badge&logo=python)
+![C](https://img.shields.io/badge/C-20.00%25-blue?style=for-the-badge&logo=c)
+![HTML](https://img.shields.io/badge/HTML-5.00%25-orange?style=for-the-badge&logo=html5)
 
 <pre>
-C      ██████████████████████████████████████ 39.14%
-Python ████████████████████████████           26.76%
-C++    █████████████████████████              25.35%
-HTML   ████████                               8.75%
+C++    ██████████████████████████████████████████████     45.00%
+Python ████████████████████████████████                  30.00%
+C      ███████████████████                               20.00%
+HTML   █████                                              5.00%
 </pre>
 
 ---
@@ -73,6 +73,10 @@ HTML   ████████                               8.75%
 - 🌐 Portfolio: [shefa19.github.io](https://shefa19.github.io) *(Coming Soon)*
 
 ---
+
+<p align="center">
+  🌟 *Thanks for visiting! Feel free to follow my work and join me on this exciting journey.* 🚀  
+</p>
 
 <!-- 🌈 Footer -->
 <p align="center">
