@@ -6,7 +6,13 @@
 <!-- 📊 Banner Section with Stats and Streaks -->
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shefa19&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shefa19&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php" alt="Top Languages"/>
+  <br><br>
+  <!-- Custom Language Overview -->
+  <img src="https://img.shields.io/badge/C++-45.00%25-lightgrey?style=for-the-badge&logo=c%2B%2B" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-30.00%25-yellow?style=for-the-badge&logo=python" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-20.00%25-blue?style=for-the-badge&logo=c" alt="C"/>
+  <img src="https://img.shields.io/badge/HTML-5.00%25-orange?style=for-the-badge&logo=html5" alt="HTML"/>
+  <br><br>
   <img src="https://streak-stats.demolab.com/?user=shefa19&theme=darcula&hide_border=true&background=FFFFFF00" alt="GitHub Streak"/>
 </p>
 
@@ -75,7 +81,7 @@ HTML   █████                                              5.00%
 ---
 
 <p align="center">
-  🌟 *Thanks for visiting! Feel free to follow my work and join me on this exciting journey.* 🚀  
+   *Thanks for visiting! Feel free to follow my work and join me on this exciting journey.*   
 </p>
 
 <!-- 🌈 Footer -->
