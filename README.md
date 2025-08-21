@@ -16,8 +16,7 @@
 
 🎓 BSc Student in Engineering at **Dhaka International University**  
 💻 Learning **Python & Django**, completed **C, C++ & OOP**  
-🧠 Currently researching **Machine Learning** applications  
-📄 Preparing to publish my first **research paper** very soon  
+🧠 Currently researching **Machine Learning** applications    
 🌱 Exploring full-stack development and open-source contributions  
 🎯 Goal: Become a professional **Software Engineer** with strong problem-solving skills
 
@@ -43,16 +42,16 @@
 
 ## 📊 Language Usage Overview
 
-![C++](https://img.shields.io/badge/C++-45.00%25-lightgrey?style=for-the-badge&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/Python-30.00%25-yellow?style=for-the-badge&logo=python)
-![C](https://img.shields.io/badge/C-20.00%25-blue?style=for-the-badge&logo=c)
+![Python](https://img.shields.io/badge/Python-60.00%25-yellow?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/C++-20.00%25-lightgrey?style=for-the-badge&logo=c%2B%2B)
+![C](https://img.shields.io/badge/C-15.00%25-blue?style=for-the-badge&logo=c)
 ![HTML](https://img.shields.io/badge/HTML-5.00%25-orange?style=for-the-badge&logo=html5)
 
 <pre>
-C++    ██████████████████████████████████████████████     45.00%
-Python ████████████████████████████████                  30.00%
-C      ███████████████████                               20.00%
-HTML   █████                                              5.00%
+Python █████████████████████████████████████████████████     60.00%
+C++    ████████████████████                                 20.00%
+C      ███████████████                                      15.00%
+HTML   █████                                                5.00%
 </pre>
 
 ---
