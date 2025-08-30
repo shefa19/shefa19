@@ -40,22 +40,6 @@
 
 ---
 
-## 📊 Language Usage Overview
-
-![Python](https://img.shields.io/badge/Python-60.00%25-yellow?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-20.00%25-lightgrey?style=for-the-badge&logo=c%2B%2B)
-![C](https://img.shields.io/badge/C-15.00%25-blue?style=for-the-badge&logo=c)
-![HTML](https://img.shields.io/badge/HTML-5.00%25-orange?style=for-the-badge&logo=html5)
-
-<pre>
-Python █████████████████████████████████████████████████     60.00%
-C++    ████████████████████                                 20.00%
-C      ███████████████                                      15.00%
-HTML   █████                                                5.00%
-</pre>
-
----
-
 ## 🚀 Future Goals
 
 - 🧠 Master Python, Django, and full-stack web development  
