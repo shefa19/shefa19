@@ -58,7 +58,7 @@
 ---
 
 <p align="center">
-   *Thanks for visiting! Feel free to follow my work and join me on this exciting journey.*   
+   **Thanks for visiting! Feel free to follow my work and join me on this exciting journey.**   
 </p>
 
 <!-- 🌈 Footer -->
