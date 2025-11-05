@@ -15,9 +15,8 @@
 ## 👋 About Me
 
 🎓 BSc Student in Engineering at **Dhaka International University**  
-💻 Learning **Python, Django & Pandas**, completed **C, C++ & OOP**  
-🧠 Currently researching **Machine Learning** applications    
-🌱 Exploring full-stack development and open-source contributions  
+💻 Learning **Pandas & Numpy**, completed **C, C++ & Python**  
+🧠 Currently researching **Machine Learning** applications     
 🎯 Goal: Become a professional **Software Engineer** with strong problem-solving skills
 
 ---
@@ -25,8 +24,8 @@
 ## 🛠️ Skills & Tools
 
 - **Languages**: C, C++, Python, HTML, CSS, JavaScript (Basic)  
-- **Frameworks**: Django (Learning)  
-- **Tools**: VS Code, Code::Blocks, Git, GitHub  
+- **Frameworks**: Pandas & Numpy (Learning)  
+- **Tools**: VS Code, Code::Blocks, Git, GitHub, Jupyter, Caggle, Colab  
 - **Platforms**: Beecrowd, LeetCode, HackerRank, Codeforces, LightOJ
 
 ---
@@ -37,15 +36,15 @@
 - 🟠 [LeetCode](https://leetcode.com/u/shefa19/)  
 - 🟢 [HackerRank](https://www.hackerrank.com/profile/sishefa19)  
 - 🟡 [Codeforces](https://codeforces.com/profile/Shefa19)
+- 🔵 [Behance](https://www.behance.net/shefaulislam)
 
 ---
 
 ## 🚀 Future Goals
 
-- 🧠 Master Python, Django, and full-stack web development  
+- 🧠 Master Python, C++, and Data Analysis  
 - 🌟 Contribute to open-source projects  
 - 🏆 Participate in coding contests  
-- 💼 Build a professional portfolio site: **SI SHEFA**
 
 ---
 
@@ -53,7 +52,7 @@
 
 - 📧 Email: `sishefa19@gmail.com`  
 - 💼 LinkedIn: [linkedin.com/in/sishefa19](https://www.linkedin.com/in/sishefa19/)  
-- 🌐 Portfolio: [shefa19.github.io](https://shefa19.github.io) *(Coming Soon)*
+- 🌐 Portfolio: [behance.net/shefaulislam](https://www.behance.net/shefaulislam) 
 
 ---
 
