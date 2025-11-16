@@ -14,19 +14,32 @@
 
 ## 👋 About Me
 
-🎓 BSc Student in Engineering at **Dhaka International University**  
-💻 Learning **Pandas & Numpy**, completed **C, C++ & Python**  
-🧠 Currently researching **Machine Learning** applications     
-🎯 Goal: Become a professional **Software Engineer** with strong problem-solving skills
+🎓 BSc Student in Engineering at Dhaka International University
+💻 Completed C, C++ & Python, currently learning Pandas & NumPy
+🧠 Passionate about data-driven problem solving and exploring practical Machine Learning applications
+📊 Strong analytical mindset with a focus on turning raw data into meaningful insights
+🚀 Aspiring Machine Learning Engineer, driven to build intelligent, impactful solutions through data and algorithms
 
 ---
 
 ## 🛠️ Skills & Tools
 
-- **Languages**: C, C++, Python, HTML, CSS, JavaScript (Basic)  
-- **Frameworks**: Pandas & Numpy (Learning)  
-- **Tools**: VS Code, Code::Blocks, Git, GitHub, Jupyter, Caggle, Colab  
-- **Platforms**: Beecrowd, LeetCode, HackerRank, Codeforces, LightOJ
+- **Programming Languages**: C, C++, Python, Assembly Language (Basic), HTML5, CSS3, JavaScript (Basic)  
+- **Data Analysis Libraries**: Pandas, NumPy, PyTorch  
+- **Machine Learning (Learning Phase)**: Scikit-learn, Data Preprocessing, Model Training & Evaluation  
+- **Tools & Platforms**: Git, GitHub, VS Code, Code::Blocks, Jupyter Notebook, Kaggle, Google Colab  
+- **Problem Solving**: LeetCode, Beecrowd, HackerRank, Codeforces, LightOJ — focused on algorithms, data structures, and logical reasoning  
+- **Others**: Adobe Photoshop, Adobe Illustrator, Microsoft Office, Operating System, Computer Network  
+
+---
+
+## 🌟 Soft Skills
+
+- Analytical Thinking  
+- Curiosity to Learn  
+- Team Collaboration  
+- Time Management  
+- Ability to Work Under Pressure 
 
 ---
 
