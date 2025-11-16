@@ -55,9 +55,15 @@
 
 ## 🚀 Future Goals
 
-- 🧠 Master Python, C++, and Data Analysis  
-- 🌟 Contribute to open-source projects  
-- 🏆 Participate in coding contests  
+🧠 Strengthen expertise in Python and Machine Learning
+
+🤖 Build impactful ML projects and improve model-building skills
+
+🌟 Contribute to meaningful open-source machine learning initiatives
+
+🏆 Participate in coding & ML competitions to sharpen problem-solving
+
+📚 Explore Deep Learning, NLP, and Data Engineering step-by-step  
 
 ---
 
