@@ -15,7 +15,7 @@
 ## 👋 About Me
 
 🎓 BSc Student in Engineering at Dhaka International University  
-💻 Completed C, C++ & Python and currently expanding skills in Pandas, NumPy & Matplotlib
+💻 Completed C, C++ & Python and currently expanding skills in Pandas, NumPy & Matplotlib  
 🧠 Passionate about data-driven problem solving and exploring practical Machine Learning applications  
 📊 Strong analytical mindset with a focus on turning raw data into meaningful insights  
 🚀 Aspiring Machine Learning Engineer, driven to build intelligent and impactful solutions through data and algorithms
