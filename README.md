@@ -1,3 +1,8 @@
+<!-- 🌟 Thumbnail / Banner Image -->
+<p align="center">
+  <img src="[[ইমেজের-লিংক-দিন]](https://i.postimg.cc/BZRRLXWp/Chat-GPT-Image-Aug-20-2026-02-20-26-AM.png)" alt="Shefaul Islam Shefa - GitHub Banner" width="100%">
+</p>
+
 <!-- 🌟 Welcome Section -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=1000&lines=Welcome+to+My+GitHub+Profile!;I'm+Shefaul+Islam+Shefa+%F0%9F%91%8B;Full-Stack+Web+Developer+%7C+ML+Enthusiast+from+Bangladesh" alt="Typing animation">
