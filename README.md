@@ -8,40 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=1000&lines=Welcome+to+My+GitHub+Profile!;I'm+Shefaul+Islam+Shefa+%F0%9F%91%8B;Full-Stack+Web+Developer+%7C+ML+Enthusiast+from+Bangladesh" alt="Typing animation">
 </p>
 
-<!-- 📊 GitHub Stats Section -->
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=shefa19&show_icons=true&count_private=true&theme=darcula&hide_border=true&bg_color=00000000" alt="GitHub Stats" width="100%"/>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shefa19&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=8&hide=jupyter%20notebook,tex,css,php" alt="Top Languages" width="100%"/>
-    </td>
-  </tr>
-</table>
-
-<!-- 🔥 Contribution Stats -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=shefa19&theme=darcula&hide_border=true&background=FFFFFF00" alt="GitHub Streak"/>
-</p>
-
-<!-- 📈 Contribution Summary (Your Actual Data) -->
-<p align="center">
-  <table align="center">
-    <tr>
-      <td align="center"><b>📊 Total Contributions</b></td>
-      <td align="center"><b>🔥 Current Streak</b></td>
-      <td align="center"><b>🏆 Longest Streak</b></td>
-    </tr>
-    <tr>
-      <td align="center"><b>781</b><br><small>Nov 22, 2024 - Present</small></td>
-      <td align="center"><b>1</b><br><small>Aug 10, 2026</small></td>
-      <td align="center"><b>64</b><br><small>Nov 1, 2025 - Jan 3, 2026</small></td>
-    </tr>
-  </table>
-</p>
 
 ---
 
