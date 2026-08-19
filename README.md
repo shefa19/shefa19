@@ -1,6 +1,6 @@
 <!-- 🌟 Thumbnail / Banner Image -->
 <p align="center">
-  <img src="[[ইমেজের-লিংক-দিন]](https://i.postimg.cc/BZRRLXWp/Chat-GPT-Image-Aug-20-2026-02-20-26-AM.png)" alt="Shefaul Islam Shefa - GitHub Banner" width="100%">
+  <img src="https://i.postimg.cc/BZRRLXWp/Chat-GPT-Image-Aug-20-2026-02-20-26-AM.png" alt="Shefaul Islam Shefa - GitHub Banner" width="100%">
 </p>
 
 <!-- 🌟 Welcome Section -->
